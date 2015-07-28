@@ -46,7 +46,7 @@ Week | Monday                                              | Wednesday
  6   | 8/31: Ensemble Techniques                           | 9/2: K-Means Clustering and Unsupervised learning
      |                                                     |
      | **UNIT 3**                                          | **APPLICATIONS**
- 7   | 9/7:  Labor Day                                     | 9/9: Dimensionality Reduction 
+ 7   | 9/7:  Labor Day (NO CLASS)                          | 9/9: Dimensionality Reduction 
  8   | 9/14: Recommendation systems                        | 9/16: Natural Language Processing and Text Mining
  9   | 9/21: Graph Databases, Network Analysis             | 9/23: Neural Networks, Deep learning
  10  | 9/28: Time Series Analysis                          |
