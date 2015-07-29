@@ -36,7 +36,7 @@ The weekly schedules for lecture content, lab content, and homework assignments 
 Week | Monday                                              | Wednesday
 ---  | ---                                                 | ---
      | **UNIT 1**                                          | **DATA**
- 1   |                                                     | 7/29: Introduction to Data Science
+ 1   |                                                     | 7/29: [Introduction to Data Science](lectures/lec01.pdf), [Git setup](lectures/lec01_git_setup.pdf)
  2   | 8/3:  Data Format, Access & Transformation          | 8/5: Cleaning and exploring data
      |                                                     |
      | **UNIT 2**                                          | **MACHINE LEARNING**
@@ -61,7 +61,7 @@ Week | Monday                                              | Wednesday
 
 HW       | Topics                           | Dataset | Assigned | Due   | Review Due
 ---      | ---                              | ---     | ---      | ---   | ---
-1        | Presentation, Github setup       |         | 7/29     |  8/3  |  8/5
+1        | [Github setup](homework/DAT16_HW1_assignment.pdf)                    |         | 7/29     |  8/3  |  8/5
 2        | Data Exploration                 | Titanic | 8/5      |  8/10 |  8/12
 3        | Classification, Cross Validation |         | 8/12     |  8/17 |  8/19
 4        | Classification                   |         | 8/19     |  8/24 |  8/26
