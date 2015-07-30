@@ -85,7 +85,7 @@ FP       | Deliverable            | Due
 
 Instructor  | Times                  | Available method
 ---         | ---                    | ---
-Justin      | 2:00 - 6:00 PM Sundays | in person (at GA), slack, hangouts by appointment
+Justin      | 3:00 - 6:00 PM Sundays | in person (at GA), slack, hangouts by appointment
 Francesco   | Monday & Wednesday     | slack (quickest response) or hangouts by appointment
 
 ### Slack
