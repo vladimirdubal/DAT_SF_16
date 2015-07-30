@@ -88,7 +88,7 @@ Instructor  | Times                  | Available method
 Justin      | 2:00 - 6:00 PM Sundays | in person (at GA), slack, hangouts by appointment
 Francesco   | Monday & Wednesday     | slack (quickest response) or hangouts by appointment
 
-Slack
+### Slack
 
 You've all been invited to use Slack for chat during class and the day. Please consider this the primary way to contact other students. Justin will be in Slack during class to handle questions. All instructors will be available on Slack during office hours (listed above).
 
