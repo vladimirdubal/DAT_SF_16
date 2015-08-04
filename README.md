@@ -48,7 +48,7 @@ Week | Monday                                              | Wednesday
      | **UNIT 3**                                          | **APPLICATIONS**
  7   | 9/7:  Labor Day (NO CLASS)                          | 9/9: Dimensionality Reduction 
  8   | 9/14: Recommendation systems                        | 9/16: Natural Language Processing and Text Mining
- 9   | 9/21: Graph Databases, Network Analysis             | 9/23: Neural Networks, Deep learning
+ 9   | 9/21: Network Analysis             | 9/23: Neural Networks, Deep learning
  10  | 9/28: Time Series Analysis                          |
      |                                                     |
      | **UNIT 4**                                          | **AT SCALE**
