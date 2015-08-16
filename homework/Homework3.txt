@@ -1,0 +1,21 @@
+Descripion of dataset
+---------------------
+
+The data has 768 subjects, which it measures across 8 features. 
+The measure as to whether a subject has diabetes is if the 2 hour post-load plasma glucose
+ was at least 200 mg/dl at any survey. 
+ 
+The class value is the target value. If a subject tested positive for Diabetes, then the class value is 1. 
+A class value of 0 means that the subject did not test positive for Diabetes. 
+
+Of the 768 subjects, there were 268 that tested positive for Diabetes.  
+
+
+The dataset has no null value. 
+
+There are 8 features. My understanding is that they are normalized as they have the same unit. 
+
+
+In summary, the result I get, is that my knn accuracy score is 0.67 whereas my naive bayes score is 0.56. 
+
+
