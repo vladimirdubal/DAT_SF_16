@@ -18,4 +18,5 @@ There are 8 features. My understanding is that they are normalized as they have 
 
 In summary, the result I get, is that my knn accuracy score is 0.67 whereas my naive bayes score is 0.56. 
 
+Did not do the average of 0,50. Did not read homework correctly on that one. 
 
